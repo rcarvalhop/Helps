@@ -1,3 +1,10 @@
 -- Passos para clonar o diretório do GitHub com um projeto em sua máquina
 
-1- criar um novo diretório no GitHub (marca
+1- criar um novo diretório no GitHub (marcar a opção para criar README)
+2- Copiar o URL referente ao diretorio do GitHub (Botão verde dentro do diretório)
+3- Abrir o prompt e navegar para o diretório que deseja criar o clone (d:|cd|dir)
+4- No diretorio digitar GIT CLONE e colar o URL copiado do GitHub (será criado uma pasta com os arquivos vindos do GitHub)
+5- Copiar todos os arquivos do projeto que está na máquina para esse novo diretório
+6- No cmd entrar na nova pasta criada
+7- Digite GIT STATUS para verificar tudo de novo que foi para a pasta (escrito em vermelho)
+8- 
