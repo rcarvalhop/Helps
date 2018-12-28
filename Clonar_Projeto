@@ -7,10 +7,11 @@
 5- Copiar todos os arquivos do projeto que está na máquina para esse novo diretório
 6- No cmd entrar na nova pasta criada
 7- Digite GIT STATUS para verificar tudo de novo que foi para a pasta (escrito em vermelho)
-8- arquivos em vermelho será adicionado, com isso dê o GIT ADD com cada arquivo em vermellho (quando for pasta: nome/) **git add all
+8- arquivos em vermelho será adicionado, com isso dê o GIT ADD com cada arquivo em vermellho (quando for pasta: nome/) **git add . (add tudo de uma vez)
 9- depois de add todos os arquivos dê o GIT COMMIT -M "comentario commit" 
 10- GIT STATUS para verificar (mensagem para fazer o GIT PUSH)
-11- então dê um GIT PUSH ORIGIN MASTER (entrar com usuario e senha) e com isso será commitado para o diretório online no GitHub
+11- então dê um GIT PUSH (entrar com usuario e senha) e com isso será commitado para o diretório online no GitHub
+12- caso dê erro de conflitos dos arquivos, executar o comando GIT PULL ORIGIAN MASTAR e depois rodar o GIT PUSH novamente. 
 
 -- Para configurar para acessar o site, no GitHub vá
 
