@@ -10,7 +10,7 @@
 8- arquivos em vermelho será adicionado, com isso dê o GIT ADD com cada arquivo em vermellho (quando for pasta: nome/) **git add all
 9- depois de add todos os arquivos dê o GIT COMMIT -M "comentario commit" 
 10- GIT STATUS para verificar (mensagem para fazer o GIT PUSH)
-11- então dê um GIT PUSH (entrar com usuario e senha) e com isso será commitado para o diretório online no GitHub
+11- então dê um GIT PUSH ORIGIN MASTER (entrar com usuario e senha) e com isso será commitado para o diretório online no GitHub
 
 -- Para configurar para acessar o site, no GitHub vá
 
